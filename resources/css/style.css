@@ -385,6 +385,7 @@ span {
 .sticky .main-nav li a:visited {
     padding: 15px 0;
     color: #555;
+    border-bottom: none;
 }
 
 /*SECTION AMENITIES*/
