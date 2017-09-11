@@ -383,7 +383,7 @@ span {
 
 .sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
-    padding: 15px 0;
+    padding: 10px 0;
     color: #555;
     border-bottom: none;
 }
@@ -618,7 +618,7 @@ ul li:hover{
     opacity: 1;
     visibility: visible;
 }
-#bigcircle{
+/*#bigcircle{
     height: 75px;
     width: 75px;
     border-radius: 50%;
@@ -626,7 +626,7 @@ ul li:hover{
     background-size: 120%;
     background-position: center;
     margin: 25px 45px;
-}
+}*/
 
 /* SECTION TESTIMONIALS */
 
