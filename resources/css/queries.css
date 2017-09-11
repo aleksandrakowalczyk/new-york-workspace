@@ -63,6 +63,13 @@
     .section-amenities { height: auto }
 
     .section-testimonials { height: auto }
+    
+    .section-form { height: auto }
+    
+    #tooltip10 {
+      max-height: 100%;
+      max-width: 100%;
+    }
 
     .map {
       height: 80%;
@@ -116,7 +123,7 @@
         font-size: 100%;
     }
 
-    .sticky .main-nav { margin-top: 10px; }
+    .sticky .main-nav { margin-top: 5px; }
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited { padding: 10px 0; }
     .sticky .mobile-nav-icon { margin-top: 10px; }
@@ -138,4 +145,11 @@
 
   section { padding: 25px 0; }
   .contact-form {width: 100%; }
+    
+   .section-form { height: auto }
+    
+    #tooltip10 {
+      max-height: 100%;
+      max-width: 100%;
+    }
 }
