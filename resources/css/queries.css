@@ -63,6 +63,13 @@
     .section-amenities { height: auto }
 
     .section-testimonials { height: auto }
+    
+    .section-form { height: auto }
+    
+    #tooltip10 {
+      max-height: 100%;
+      max-width: 100%;
+    }
 
     .map {
       height: 80%;
@@ -151,6 +158,7 @@
   }
 
   section { padding: 25px 0; }
+<<<<<<< HEAD
   .contact-form {
     width: 100%;
     height: auto;}
@@ -172,4 +180,14 @@
   .footer-nav {
     display: none;
   }
+=======
+  .contact-form {width: 100%; }
+    
+   .section-form { height: auto }
+    
+    #tooltip10 {
+      max-height: 100%;
+      max-width: 100%;
+    }
+>>>>>>> 2649e0010605c93635a17c27945c67d11c83374f
 }
